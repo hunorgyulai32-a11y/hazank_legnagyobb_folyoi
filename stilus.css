@@ -27,6 +27,11 @@ img{
     background-color: aqua;
     padding: 10px;
 }
+footer{
+    background-color: aqua;
+    border: solid red;
+    padding: 5px;
+}
 article{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
